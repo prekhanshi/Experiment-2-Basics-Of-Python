@@ -2,7 +2,7 @@
 AIM
 To study the Python programming environment and interface, understand execution modes, variables, data types, operators, and basic input/output operations in Python.
 
-#THEORY
+# THEORY:
 1) Python Environment and Interface
 The Python environment provides the required tools to write, execute, and debug Python programs. Python can be used through different interfaces such as the Python Shell, Jupyter Notebook, IDEs like Spyder/PyCharm/VS Code, and cloud platforms like Google Colab. These interfaces help the user to type code, run it, and view the output easily, making learning and development faster.
 
@@ -28,10 +28,10 @@ Operators are symbols used to perform operations on variables and values. Python
 7) Basic Input and Output Operations
 Input and output allow interaction between the user and the program. Python uses the input function to take user input, which is stored as a string by default. If required, the input can be converted into integer or float. The print function is used to display output on the screen, and formatted output can be displayed using commas or formatting techniques.
 
-#CONCLUSION
+# CONCLUSION:
 Thus, the Python programming environment, execution modes, variables, data types, operators, and basic input/output operations were studied and understood.
 
-#PROGRAM EXPLANATION 
+# PROGRAM EXPLANATION:
 Program 1: Comments and Execution Demonstration
 This program explains how comments are written in Python using single-line and multi-line formats. It then prints simple messages on the screen to demonstrate how Python executes statements and displays output. The purpose is to understand that comments do not affect execution and are only meant for readability and documentation.
 
